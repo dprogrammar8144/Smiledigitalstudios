@@ -1,0 +1,36 @@
+.name{
+    background-color: red;
+    color: black;
+    font-style: normal;
+    text-decoration: wavy;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wel{
+    background-color: black;
+    color: azure;
+    font-style: oblique;
+    text-decoration: underline;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.group{
+    background-color: peachpuff;
+    color: blueviolet;
+    font-style: initial;
+    text-decoration: solid;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.motion{
+    background-color: red;
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+body{
+    background-image: url("img/_DSC_9429.jpg");
+}
